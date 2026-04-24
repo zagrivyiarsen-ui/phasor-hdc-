@@ -108,7 +108,7 @@ If you use this code in your research, please cite the corresponding paper:
 ```bibtex
 @article{zagr2026phasor,
   title   = {Phasor-HDC: An Algebraic Substrate for O(1) Causal Interventions and Safe HALT in Hyperdimensional Complex Space},
-  author  = {Arseniy Zagr},
+  author  = {Arsenii Zagrivyi},
   journal = {arXiv preprint},
   year    = {2026}
 }
@@ -116,7 +116,7 @@ If you use this code in your research, please cite the corresponding paper:
 
 Contact
 
-Arseniy Zagr – arseniy.zagr@uni-wuppertal.de
+Arsenii Zagrivyi – arsenii.zahrivyi@uni-wuppertal.de
 University of Wuppertal
 
 License
