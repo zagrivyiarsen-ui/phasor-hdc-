@@ -2,14 +2,14 @@ cff-version: 1.2.0
 message: "If you use this software in your research, please cite both the software and the accompanying paper as shown below."
 title: "Phasor-HDC: An Algebraic Substrate for O(1) Causal Interventions and Safe HALT"
 authors:
-  - family-names: "Zagr"
-    given-names: "Arseniy"
-    email: "arseniy.zagr@uni-wuppertal.de"
+  - family-names: "Zahrivyi"
+    given-names: "Arsenii"
+    email: "arsenii.zahrivyi@uni-wuppertal.de"
     affiliation: "University of Wuppertal"
 license: MIT
 date-released: 2026-04-18
 version: 1.0.0
-repository-code: "https://github.com/ArseniyZagr/phasor-hdc"
+repository-code: "https://github.com/zagrivyiarsen-ui/phasor-hdc"
 keywords:
   - "hyperdimensional computing"
   - "causal inference"
